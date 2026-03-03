@@ -18,7 +18,8 @@
         {
             "version": "0.9",
             "status": "testing",
-            "kicad_version": "9.0.0"
+            "kicad_version": "9.0.0",
+            "download_sha256": "78fcb6a64065c572c9e573bb667eaa04feb1718ed6f5cec89771c72fe8ec1635"
         }
     ]   
 }
