@@ -1,0 +1,24 @@
+{
+    "name": "Automatic footprint type selector",
+    "description": "Automatically detects and fixes footprint type attributes",
+    "description_full": "This plugin automatically detects in 1-click the footprint type for each footprint (SMD, THT, etc.) for use with the 3D viewer",
+    "identifier": "com.github.abhijithcv.automatic-footprint-type-selector",
+    "type": "plugin",
+    "author": {
+        "name": "abhijithcv",
+        "contact": {
+            "email": "electrovishnu8@gmail.com"
+        }
+    },
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "https://github.com/abhijithcv/kicad-automatic-footprint-type-selector"
+    },
+    "versions": [
+        {
+            "version": "0.9",
+            "status": "testing",
+            "kicad_version": "9.0.0"
+        }
+    ]   
+}
